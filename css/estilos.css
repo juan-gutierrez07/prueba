@@ -1,0 +1,22 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.container-login {
+  max-width: 330px;
+  padding: 15px;
+  position: relative;
+  left: 60%;
+  top: 70%;
+}
+
+.container img {
+  background: #2873b6;
+  position: relative;
+  height: 100%;
+  top: -100%;
+  width: 60%;
+}
+.container-login button[type="button"] {
+  background: #2873b6;
+}
